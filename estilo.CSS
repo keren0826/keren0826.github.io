@@ -1,0 +1,24 @@
+body{
+    background-color:hsl(0, 0%, 83%);
+    color: black;
+    background-image: url(1.webp);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+
+}
+
+.sombra {
+    width: 600px;
+    height: 70px;
+    margin: auto;
+    background-color: hwb(207 64% 32%);
+}
+ol{
+    background-color:hsl(193, 33%, 89%);
+    padding: 6px 10px;
+    border-width: 6px 10px ;
+    border-radius: 10px;
+    border-style:groove; 
+
+}
